@@ -1,0 +1,14 @@
+//Get Employee list using pagination
+** http://localhost:8000/api/v1/employee?page=1&limit=10 **
+
+//Get Employee by ID
+** http://localhost:8000/api/v1/employee/69 **
+
+//POST create employee record
+http://localhost:8000/api/v1/employee
+
+//DELETE Employee record by ID
+http://localhost:8000/api/v1/employee/121
+
+//PUT Employee record by ID
+http://localhost:8000/api/v1/employee/40
